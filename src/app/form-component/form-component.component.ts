@@ -7,8 +7,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FormComponentComponent {
 
-  submit(login: any) {
+  submit(login:any) {
     console.log("form submitted!!", login)
+
   }
 
 }

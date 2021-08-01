@@ -6,10 +6,11 @@ label {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   color: aqua;
 }
-.alert {
-  background-color: red;
-}
 .alert-danger {
+  background-color: #f44336;
+}
+.alert {
+
   color: white;
   margin-bottom: 15px;
   text-align: left;
