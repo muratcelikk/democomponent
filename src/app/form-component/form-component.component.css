@@ -1,0 +1,16 @@
+div {
+  text-align: center;
+}
+label {
+  text-align: left;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: aqua;
+}
+.alert {
+  background-color: red;
+}
+.alert-danger {
+  color: white;
+  margin-bottom: 15px;
+  text-align: left;
+}
